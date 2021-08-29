@@ -1,0 +1,12 @@
+[submodule "node"]
+	path = node
+	url = https://github.com/zheli-1/node.git
+[submodule "nmap_crete"]
+	path = nmap_crete
+	url = https://github.com/zheli-1/nmap_crete.git
+[submodule "crete-dev"]
+	path = crete-dev
+	url = https://github.com/zheli-1/crete-dev.git
+[submodule "nodejsaddonsymbolic"]
+	path = nodejsaddonsymbolic
+	url = https://github.com/zheli-1/nodejsaddonsymbolic.git
